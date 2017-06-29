@@ -6,6 +6,6 @@
 # System Files
 .DS_Store
 Thumbs.db
-
+composer.lock
 
 /assets/img/upload/*.jpg
