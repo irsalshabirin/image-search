@@ -5,7 +5,7 @@ Pencarian Gambar dengan menggunakan fitur warna
 Terdapat file `image_search.sql` yang menjadi struktur database dalam proyek ini. Terdapat 3 tabel :
 
 1. `color_feature` berguna untuk menentukan berapa bin warna yang digunakan dalam proses ektraksi fitur
-2. `feature_image` berguna untuk menampung nilai fitur dari masing-masing gambar yang telah di `pelajari`
+2. `feature_image` berguna untuk menampung nilai fitur dari masing-masing gambar yang telah di pelajari/train
 3. `images` berguna untuk menampung nama file dan letak file di simpan
 
 ## How To / Cara - cara
@@ -13,7 +13,7 @@ Terdapat file `image_search.sql` yang menjadi struktur database dalam proyek ini
 1. Download saja proyek ini
 2. Import .sql yang terdapat dalam proyek ini
 3. Hapus record didalamnya (karena data tersebut hanya contoh)
-
+4. `cndb/db.php` adalah file yang menghubungkan php dengan database, silahkan diganti sesuai dengan pengaturan Anda
 
 ### Cara Mempelajari Gambar
 1. Terdapat file `upload.php`
@@ -29,7 +29,7 @@ Terdapat file `image_search.sql` yang menjadi struktur database dalam proyek ini
 
 # Kontak 
 - irsalshabirin@gmail.com
-- twitter.com/irsalshabirin
+- [twitter.com/irsalshabirin](https://twitter.com/irsalshabirin)
 
 # Composer
 Composer dalam proyek ini masih belum ada fungsinya :P, karena masih mencoba-coba
