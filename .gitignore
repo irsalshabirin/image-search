@@ -1,0 +1,11 @@
+# Library
+/vendor
+/node_modules
+
+
+# System Files
+.DS_Store
+Thumbs.db
+
+
+/assets/img/upload/*.jpg

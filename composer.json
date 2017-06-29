@@ -1,0 +1,14 @@
+{
+    "name": "vendor/img-search",
+    "description": "Description of project imgSearch.",
+    "authors": [
+        {
+            "name": "irsal",
+            "email": "irsalshabirin@gmail.com"
+        }
+    ],
+    "require": {
+        "gregwar/image": "2.*",
+        "mcordingley/LinearAlgebra": "^1.1"
+    }
+}
